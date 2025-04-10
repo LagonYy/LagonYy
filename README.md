@@ -1,6 +1,37 @@
-### Oie! 👋
+## Oiê! Eu sou a LagonY 💻🌼
 
-##
+🌷  Estudante de Ciência da Computação e front-end dev iniciante  
+🎠  Apaixonada por jogos indie e criação 3D no Blender  
+🧁  Explorando programação, interfaces fofas e experiências interativas
+
+
+
+---
+
+### 🧃 Um pouco sobre mim:
+Gosto de transformar ideias em experiências bonitinhas, criativas e acolhedoras.  
+Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinho no coração 💖
+
+---
+
+### 💖 Tecnologias que eu já uso:
+- 🌸 **HTML & CSS**
+- 🌈 **JavaScript**
+- 🧁 **Figma**
+- 🧸 **Blender**
+  
+---
+
+### 🌱 Explorando com curiosidade:
+- 🌼 **React**
+- ☁️ **Angular**
+- 🎀 **Tailwind CSS**
+- 🎠 **Three.js**
+- ✨ **UI/UX**
+- 🎮 Unity
+- 🐍 Python
+
+---
 
 <div>
 <a href="https:github.com/LagonYy">
