@@ -8,7 +8,9 @@
 
 ### 🧃 Um pouco sobre mim:
 Gosto de transformar ideias em experiências bonitinhas, criativas e acolhedoras.  
-Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinho no coração 💖
+Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinho no coração 💖  
+Se quiser ver um pouco do que ando criando, dá uma olhadinha no meu [ArtStation](https://www.artstation.com/lagony) ✨
+
 
 ---
 
@@ -28,13 +30,6 @@ Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinh
 - ✨ **UI/UX**
 - 🎮 Unity
 - 🐍 Python
-
----
-
-### ✨ Me encontre por aí:
-
-🌈 [Meu ArtStation](https://www.artstation.com/lagony)  
-🌎 [LinkedIn](https://linkedin.com/in/larabeatrizar)  
 
 ---
 
