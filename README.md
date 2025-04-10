@@ -33,6 +33,12 @@ Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinh
 
 ---
 
+## ✨ Me encontre por aí:
+
+🌈 [Meu ArtStation](https://www.artstation.com/lagony)  
+🌎 [LinkedIn](https://linkedin.com/in/larabeatrizar)  
+
+
 <div>
 <a href="https:github.com/LagonYy">
 <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=LagonYy&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
