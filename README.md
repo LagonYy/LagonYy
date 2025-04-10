@@ -4,8 +4,6 @@
 🎠  Apaixonada por jogos indie e criação 3D no Blender  
 🧁  Explorando programação, interfaces fofas e experiências interativas
 
-
-
 ---
 
 ### 🧃 Um pouco sobre mim:
@@ -33,11 +31,12 @@ Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinh
 
 ---
 
-## ✨ Me encontre por aí:
+### ✨ Me encontre por aí:
 
 🌈 [Meu ArtStation](https://www.artstation.com/lagony)  
 🌎 [LinkedIn](https://linkedin.com/in/larabeatrizar)  
 
+---
 
 <div>
 <a href="https:github.com/LagonYy">
@@ -45,4 +44,4 @@ Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinh
 <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagonYy&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-##
+
