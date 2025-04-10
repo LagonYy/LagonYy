@@ -16,11 +16,11 @@ Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinh
 - 🌸 **HTML & CSS**
 - 🌈 **JavaScript**
 - 🧁 **Figma**
-- 🧸 **Blender**
+- 🍄 **Blender**
   
 ---
 
-### 🌱 Explorando com curiosidade:
+### 🦋 Explorando:
 - 🌼 **React**
 - ☁️ **Angular**
 - 🎀 **Tailwind CSS**
