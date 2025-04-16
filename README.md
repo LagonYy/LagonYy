@@ -7,8 +7,7 @@
 ---
 
 ### 🧃 Um pouco sobre mim:
-Gosto de transformar ideias em experiências bonitinhas, criativas e acolhedoras.  
-Quero criar jogos e ferramentas que inspirem, tragam leveza e deixem um quentinho no coração 💖  
+Gosto de transformar ideias em experiências bonitas, criativas e acolhedoras.  
 Se quiser ver um pouco do que ando criando, dá uma olhadinha no meu [ArtStation](https://www.artstation.com/lagony) ✨
 
 
@@ -28,8 +27,8 @@ Se quiser ver um pouco do que ando criando, dá uma olhadinha no meu [ArtStation
 - 🎀 **Tailwind CSS**
 - 🎠 **Three.js**
 - ✨ **UI/UX**
-- 🎮 Unity
-- 🐍 Python
+- 🎮 **Unity**
+- 🐍 **Python**
 
 ---
 
