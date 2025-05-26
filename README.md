@@ -23,7 +23,7 @@ Se quiser ver um pouco do que ando criando, dá uma olhadinha no meu [ArtStation
 
 ### 🦋 Explorando:
 -  **React**
-- ☁ **Angular**
+-  **Angular**
 -  **Tailwind CSS**
 -  **Three.js**
 -  **UI/UX**
